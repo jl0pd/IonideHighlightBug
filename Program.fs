@@ -23,6 +23,7 @@ let ex3 =
     String.concat "" [ "" ] |> ignore
 
     // these 2 breaks all highlightning until you comment them
+    // broken both on linux and windows
     // String
     //     .concat ""
     //           [ "" ]
